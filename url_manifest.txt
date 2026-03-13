@@ -9,3 +9,5 @@ https://raw.githubusercontent.com/BigStupidFresh/Listing-Fronts/main/ebay/50-409
 SKU: 96279724
 https://raw.githubusercontent.com/BigStupidFresh/Listing-Fronts/main/ebay/96279724/96279724_01_nda.jpg
 https://raw.githubusercontent.com/BigStupidFresh/Listing-Fronts/main/ebay/96279724/96279724_02_nda.jpg
+https://raw.githubusercontent.com/BigStupidFresh/Listing-Fronts/main/ebay/96279724/96279724_03_nda.jpg
+https://raw.githubusercontent.com/BigStupidFresh/Listing-Fronts/main/ebay/96279724/96279724_04_nda.jpg
