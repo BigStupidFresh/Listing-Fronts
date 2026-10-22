@@ -1,0 +1,73 @@
+{
+  "bytes": 1842976,
+  "sha256": "48c0354981637936d88e8b4046200136607d0deff311fbdbf39668b35be61e29",
+  "git_blob_sha": "79a48a961111337446057dc890ea5f3c8bf48650",
+  "target": "ebay/A03B-0815-K002/A03B-0815-K002_01_nda_20261021_v24_clean.png",
+  "chunks": [
+    {
+      "path": "Transfer/fanuc-v24/part-000.b64",
+      "characters": 196608,
+      "expected_blob_sha": "575708005ad2d57a018bc83633d2c09e350c9002"
+    },
+    {
+      "path": "Transfer/fanuc-v24/part-001.b64",
+      "characters": 196608,
+      "expected_blob_sha": "1ddc8d597ef36c276a5ffa320fc781837023c0b4"
+    },
+    {
+      "path": "Transfer/fanuc-v24/part-002.b64",
+      "characters": 196608,
+      "expected_blob_sha": "94aedf7c551ddfd91040717ec941f5352e8db096"
+    },
+    {
+      "path": "Transfer/fanuc-v24/part-003.b64",
+      "characters": 196608,
+      "expected_blob_sha": "ac81c02949617209c867de44bf9fc8b79f19918a"
+    },
+    {
+      "path": "Transfer/fanuc-v24/part-004.b64",
+      "characters": 196608,
+      "expected_blob_sha": "0a11aec18f102c2b58b0665af13a2b5a51af1584"
+    },
+    {
+      "path": "Transfer/fanuc-v24/part-005.b64",
+      "characters": 196608,
+      "expected_blob_sha": "04cfcc82d86d108a3087f6d25ec0a36b029dad53"
+    },
+    {
+      "path": "Transfer/fanuc-v24/part-006.b64",
+      "characters": 196608,
+      "expected_blob_sha": "463a7d5aec18efcc245630e61de28d9494da3ee4"
+    },
+    {
+      "path": "Transfer/fanuc-v24/part-007.b64",
+      "characters": 196608,
+      "expected_blob_sha": "7b43d4f291c6896d2f7d280baf51d1c845615083"
+    },
+    {
+      "path": "Transfer/fanuc-v24/part-008.b64",
+      "characters": 196608,
+      "expected_blob_sha": "26d12f5fc15186e88f67cc3c4628ea2dfb96d0c8"
+    },
+    {
+      "path": "Transfer/fanuc-v24/part-009.b64",
+      "characters": 196608,
+      "expected_blob_sha": "2e360cf939a07dd53a11d645e4a98cdea97ee8fa"
+    },
+    {
+      "path": "Transfer/fanuc-v24/part-010.b64",
+      "characters": 196608,
+      "expected_blob_sha": "5f2ee92fda4d03fcdc4c9e9a9a9be4ab7b36e8d0"
+    },
+    {
+      "path": "Transfer/fanuc-v24/part-011.b64",
+      "characters": 196608,
+      "expected_blob_sha": "162dc15ae6a065325540cd6b3065b173cea00c07"
+    },
+    {
+      "path": "Transfer/fanuc-v24/part-012.b64",
+      "characters": 98008,
+      "expected_blob_sha": "ea9830fdc1554d82a6543cb32975e759ebf0d990"
+    }
+  ]
+}
